@@ -1,4 +1,4 @@
-##! BSIT-3B Group 3
+## BSIT-3B Group 3
 
 # CompTrack Lab Manager
 ## An efficient inventory tracking for computer lab equipment in Gordon College.
